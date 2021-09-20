@@ -1,0 +1,17 @@
+p{ text-align: left; font-size: 24px}
+html{background-color: lightgrey}
+table{width: 60%; font-size: 23px; align: center;}
+h1{color: darkred}
+h2{color:red; font-size: 26px}
+.flex{text-align: center}
+body{font-family: "Agency FB"; }
+ul{font-size: 33px}
+li{color: darkred; }
+th{color: darkred; text-align: center; font-size: 25px; }
+td{text-align: center; font-size:23px;}
+.rand{border-collapse: collapse}
+.lil{border: solid}
+td:hover{ background-color: lightcoral}
+th:hover{background-color: lightcoral}
+.sab tr:hover{background-color: lightcoral}
+.sab{border-collapse: collapse}
